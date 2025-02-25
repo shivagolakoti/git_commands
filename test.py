@@ -3,6 +3,7 @@ def fact(n):
         return 1
     else:
         print("lol")
+        print("mahesh")
         return n*fact(n-1)
     
 print(fact(5))
